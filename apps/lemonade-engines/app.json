@@ -1,0 +1,10 @@
+{
+  "id": "lemonade-engines",
+  "name": "Lemonade Engines",
+  "description": "Add OpenAI-compatible engines to Lemonade with one Set up button: install, start, register as a provider and test",
+  "category": ["infrastructure"],
+  "date_added": "2026-10-24",
+  "links": {
+    "app": "https://github.com/festeraeb/lemonade-engines"
+  }
+}
